@@ -1,1 +1,1 @@
-# frontend_course_land_page_cp
+# land_page_cp
